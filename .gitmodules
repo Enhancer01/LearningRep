@@ -1,0 +1,3 @@
+[submodule "bpp_phyl"]
+	path = bpp_phyl
+	url = https://github.com/BioPP/bpp-phyl.git
